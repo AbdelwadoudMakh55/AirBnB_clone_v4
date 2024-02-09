@@ -185,3 +185,22 @@ Write a JavaScript script (`static/scripts/4-hbnb.js`):
 - When the button tag is clicked, a new POST request to `places_search` should be made with the list of Amenities checked
 
 Now you have the first filter implemented, enjoy!
+
+---
+
+### Environment
+
+- Language: Python 3.4.3
+  - OS: Ubuntu 20.04 LTS
+  - Compiler: python3
+  - Style guidelines:
+    - [PEP 8 (version 1.7)](https://www.python.org/dev/peps/pep-0008/)
+
+---
+
+## Authors
+
+- _Website_ - [Abdelwadoud Makhlok](https://github.com/AbdelwadoudMakh55)
+- _Website_ - [Ayomide Kayode](https://github.com/AyomideKayode)
+- _ALX Software Engineering Program_ - [ALX_AFRICA](https://www.alxafrica.com/programmes/)
+- _Twitter_ - [@kazzy_wiz](https://www.twitter.com/kazzy_wiz)

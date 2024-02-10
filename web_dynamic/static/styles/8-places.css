@@ -95,7 +95,25 @@
     background: url("../images/icon_bath.png") no-repeat top center;
     width: 100px;
 }
-
-.user {
-  margin-bottom: 1.5%;
+.reviews {
+    margin-top: 40px;
+}
+.reviews h2 {
+    text-align: left;
+    font-size: 16px;
+    border-bottom: 1px solid #DDDDDD;
+}
+.click {
+    color: #ff545f;
+    font-size: 10px;
+    margin-left: 10px;
+}
+.reviews ul {
+    list-style-type: none;
+}
+.reviews h3 {
+    font-size: 14px;
+}
+.reviews p {
+    font-size: 12px;
 }

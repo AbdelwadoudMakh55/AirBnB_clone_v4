@@ -3,8 +3,8 @@ const $ = window.$;
 $(document).ready(function () {
   const amenitiesChecked = [];
   const amenitiesNames = [];
-  const statusEndpoint = 'http://127.0.0.1:5001/api/v1/status/';
-  const placesEndpoint = 'http://127.0.0.1:5001/api/v1/places_search/';
+  const statusEndpoint = 'http://0.0.0.0:5001/api/v1/status/';
+  const placesEndpoint = 'http://0.0.0.0:5001/api/v1/places_search/';
 
   $('input[type="checkbox"]').change(function () {
     const amenityId = $(this).data('id');

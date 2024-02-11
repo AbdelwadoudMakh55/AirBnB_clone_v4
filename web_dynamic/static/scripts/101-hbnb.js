@@ -137,7 +137,7 @@ $(document).ready(function () {
     });
   });
   $(document).on('click', 'span.click', function () {
-    let reviewEndpoint = 'http://127.0.0.1:5001/api/v1/places/';
+    let reviewEndpoint = 'http://0.0.0.0:5001/api/v1/places/';
     if ($(this).text() === 'show') {
       const placeId = $(this).data('id');
       reviewEndpoint += placeId + '/reviews';
